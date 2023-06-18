@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/terraria-server-admin/static/css/main.073c9b0a.css",
-    "main.js": "/terraria-server-admin/static/js/main.0b5f8fce.js",
+    "main.js": "/terraria-server-admin/static/js/main.799fbd1c.js",
     "static/js/787.a34b3767.chunk.js": "/terraria-server-admin/static/js/787.a34b3767.chunk.js",
     "static/media/logo.svg": "/terraria-server-admin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/terraria-server-admin/index.html",
     "main.073c9b0a.css.map": "/terraria-server-admin/static/css/main.073c9b0a.css.map",
-    "main.0b5f8fce.js.map": "/terraria-server-admin/static/js/main.0b5f8fce.js.map",
+    "main.799fbd1c.js.map": "/terraria-server-admin/static/js/main.799fbd1c.js.map",
     "787.a34b3767.chunk.js.map": "/terraria-server-admin/static/js/787.a34b3767.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0b5f8fce.js"
+    "static/js/main.799fbd1c.js"
   ]
 }
